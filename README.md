@@ -27,6 +27,12 @@ a==b : true
 
 a===b : false
 
+*함수*
+
+Function statement형: 일반적 함수의 형태
+
+Arrow function expression형: 화살표 함수
+
 JSON = key(id)와 k-v(key-value)가 있음
 
 html5test.com 
