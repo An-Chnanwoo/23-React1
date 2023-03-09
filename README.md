@@ -16,6 +16,19 @@ HTML, CSS란 무엇인지
 
     const: 중복 선언 불가능, 재할당불가능
 
+3. 연산자
+    ex/ a=a++; , a=++a;
+
+let a = 1;
+
+let b = '1';
+
+a==b : true
+
+a===b : false
+
+JSON = key(id)와 k-v(key-value)가 있음
+
 html5test.com 
 
 https://www.toptal.com/developers/gitignore //형태구성 다양함
