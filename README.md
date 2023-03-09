@@ -14,7 +14,7 @@ HTML, CSS란 무엇인지
 
     let: 중복 선언 불가능. 재할당가능 
 
-    count: 중복 선언 불가능, 재할당불가능
+    const: 중복 선언 불가능, 재할당불가능
 
 html5test.com 
 
